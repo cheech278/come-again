@@ -1,0 +1,2 @@
+model_name: "facebook/hubert-large-ls960-ft"
+device: cuda
